@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://eneaene29.github.io/site-ene-a-ene-articles/index.html</loc>
-  </url>
-
-  <url>
-    <loc>https://eneaene29.github.io/site-ene-a-ene-articles/Astrologie.html</loc>
-  </url>
-
-  <url>
-    <loc>https://eneaene29.github.io/site-ene-a-ene-articles/Soins-energetiques.html</loc>
-  </url>
-
-  <url>
-    <loc>https://eneaene29.github.io/site-ene-a-ene-articles/Harmonisation-lieux.html</loc>
-  </url>
-
+  <url><loc>https://eneaene29.github.io/site-ene-a-ene-articles/index.html</loc></url>
+  <url><loc>https://eneaene29.github.io/site-ene-a-ene-articles/Astrologie.html</loc></url>
+  <url><loc>https://eneaene29.github.io/site-ene-a-ene-articles/Soins-energetiques.html</loc></url>
+  <url><loc>https://eneaene29.github.io/site-ene-a-ene-articles/Harmonisation-lieux.html</loc></url>
 </urlset>
