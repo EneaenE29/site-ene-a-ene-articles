@@ -1,103 +1,157 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
   <meta charset="UTF-8">
-  <title>Pratiques & articles</title>
+  <title>Approches holistiques & articles</title>
+
+  <meta name="description" content="
+  Approches holistiques, soins énergétiques, astrologie en psychogénéalogie
+  et harmonisation des lieux. Un espace de compréhension, d’apaisement
+  et de transformation intérieure.
+  ">
 
   <style>
     body {
-      background-color: #FFF5D0; /* Beige */
       margin: 0;
       min-height: 100vh;
+      background-color: #FFF5D0;
       font-family: Georgia, serif;
-      color: #3b2f1a;
+      color: #4a3b1f;
+      line-height: 1.7;
     }
 
     .container {
-      max-width: 900px;
+      max-width: 1000px;
       margin: 0 auto;
-      padding: 60px 30px;
-      background: rgba(255,255,255,0.85);
-      border-radius: 12px;
+      padding: 70px 30px;
     }
 
     h1 {
       text-align: center;
+      font-size: 2.4em;
+      margin-bottom: 30px;
+      color: #7a5c00;
+    }
+
+    .intro {
+      max-width: 800px;
+      margin: 0 auto 60px;
+      text-align: center;
+      font-size: 1.05em;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 30px;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.85);
+      padding: 30px;
+      border-radius: 14px;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 28px rgba(0,0,0,0.12);
+    }
+
+    .card h2 {
+      margin-top: 0;
       color: #8b6b00;
-      margin-bottom: 40px;
+      font-size: 1.3em;
     }
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-
-    li {
+    .card p {
+      font-size: 0.95em;
       margin-bottom: 20px;
     }
 
-    a {
+    .card a {
       text-decoration: none;
-      font-size: 1.1em;
-      color: #8b6b00;
       font-weight: bold;
+      color: #7a5c00;
     }
 
-    a:hover {
+    .card a:hover {
       text-decoration: underline;
+    }
+
+    footer {
+      margin-top: 80px;
+      text-align: center;
+      font-size: 0.85em;
+      color: #7a6a40;
     }
   </style>
 </head>
 
 <body>
-<p>
-  Bienvenue dans cet espace dédié à la connaissance de soi,
-  à l’harmonisation intérieure et à la compréhension des liens invisibles
-  qui nous relient à notre histoire, à nos lieux de vie et à notre chemin d’âme.
-</p>
-
-<p>
-  À travers ces articles, je vous invite à explorer différentes approches
-  holistiques telles que les soins énergétiques, l’astrologie appliquée
-  à la psychogénéalogie, et l’harmonisation des lieux,
-  afin de mettre du sens, de la conscience et de l’apaisement
-  sur votre vécu.
-</p>
-
-<p>
-  Chaque pratique proposée ici est une porte d’entrée vers une meilleure
-  compréhension de soi, dans le respect de votre rythme
-  et de votre libre arbitre.
-</p>
 
   <div class="container">
-    <h1>Mes pratiques & articles</h1>
 
-    <ul>
-      <li>
-        <a href="Soins énergétiques.html">
-          Soins énergétiques
-        </a>
-      </li>
+    <h1>Approches holistiques</h1>
 
-      <li>
-        <a href="Astrologie.html">
-          Astrologie
-        </a>
-      </li>
+    <div class="intro">
+      <p>
+        Bienvenue dans cet espace dédié à la compréhension de soi,
+        à l’harmonisation intérieure et à l’exploration des liens
+        subtils entre notre histoire, nos lieux de vie et notre chemin personnel.
+      </p>
 
-      <li>
-        <a href="harmonisation-lieux.html">
-          Harmonisation des lieux
-        </a>
-      </li>
+      <p>
+        Vous trouverez ici différentes approches holistiques,
+        proposées comme des outils de conscience, d’apaisement
+        et de transformation, dans le respect de votre rythme
+        et de votre libre arbitre.
+      </p>
+    </div>
 
-      <!-- tu ajouteras d’autres articles ici -->
-    </ul>
+    <div class="grid">
+
+      <div class="card">
+        <h2>Soins énergétiques</h2>
+        <p>
+          Une approche globale visant à rééquilibrer les énergies,
+          libérer les blocages et favoriser un mieux-être
+          sur les plans physique, émotionnel et subtil.
+        </p>
+        <a href="soins-energetiques.html">Découvrir →</a>
+      </div>
+
+      <div class="card">
+        <h2>Astrologie & psychogénéalogie</h2>
+        <p>
+          L’astrologie comme outil de lecture symbolique
+          pour comprendre les héritages familiaux,
+          les schémas transgénérationnels et se réapproprier son chemin.
+        </p>
+        <a href="astrologie-psychogenealogie.html">Lire l’article →</a>
+      </div>
+
+      <div class="card">
+        <h2>Harmonisation des lieux</h2>
+        <p>
+          Restaurer l’équilibre énergétique des lieux de vie
+          afin de favoriser un environnement soutenant,
+          apaisant et aligné avec ses occupants.
+        </p>
+        <a href="harmonisation-lieux.html">Explorer →</a>
+      </div>
+
+    </div>
+
+    <footer>
+      <p>
+        © Approche holistique – Chemin de conscience et d’harmonisation
+      </p>
+    </footer>
+
   </div>
-<nav>
-  <a href="https://eneaene.my.canva.site/site-ene-a-ene/articles">← Retour à l’accueil</a>
-</nav>
 
 </body>
 </html>
