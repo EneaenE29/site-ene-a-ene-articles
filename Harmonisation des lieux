@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Harmonisation des lieux – Bienfaits</title>
+
+  <meta name="description" content="
+  Découvrez les bienfaits de l’harmonisation des lieux : équilibre énergétique,
+  apaisement, vitalité et atmosphère positive pour les occupants.
+  ">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background-color: #FFF5D0;
+      font-family: Georgia, serif;
+      color: #4a3b1f;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 60px 30px;
+      background: rgba(255,255,255,0.85);
+      border-radius: 12px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2em;
+      color: #7a5c00;
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      color: #8b6b00;
+      margin-top: 40px;
+    }
+
+    p {
+      margin-bottom: 20px;
+      font-size: 1.05em;
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    .return-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #7a5c00;
+      color: #FFF5D0;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .return-button:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- Bouton retour au sommaire -->
+    <nav>
+      <a href="index.html" class="return-button">← Retour au sommaire</a>
+    </nav>
+
+    <h1>Harmonisation des lieux et bienfaits</h1>
+
+    <p>
+      L’harmonisation des lieux consiste à rééquilibrer l’énergie des espaces
+      que nous habitons ou fréquentons, afin de créer
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Harmonisation des lieux – Bienfaits</title>
+
+  <meta name="description" content="
+  Découvrez les bienfaits de l’harmonisation des lieux : équilibre énergétique,
+  apaisement, vitalité et atmosphère positive pour les occupants.
+  ">
+
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background-color: #FFF5D0;
+      font-family: Georgia, serif;
+      color: #4a3b1f;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 60px 30px;
+      background: rgba(255,255,255,0.85);
+      border-radius: 12px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2em;
+      color: #7a5c00;
+      margin-bottom: 30px;
+    }
+
+    h2 {
+      color: #8b6b00;
+      margin-top: 40px;
+    }
+
+    p {
+      margin-bottom: 20px;
+      font-size: 1.05em;
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    .return-button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #7a5c00;
+      color: #FFF5D0;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .return-button:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <!-- Bouton retour au sommaire -->
+    <nav>
+      <a href="index.html" class="return-button">← Retour au sommaire</a>
+    </nav>
+
+    <h1>Harmonisation des lieux et bienfaits</h1>
+
+    <p>
+      L’harmonisation des lieux consiste à rééquilibrer l’énergie des espaces
+      que nous habitons ou fréquentons, afin de créer
