@@ -78,85 +78,55 @@
 
     <p>
       L’harmonisation des lieux consiste à rééquilibrer l’énergie des espaces
-      que nous habitons ou fréquentons, afin de créer
-<!DOCTYPE html>
-<html lang="fr">
+      que nous habitons ou fréquentons, afin de créer une atmosphère
+      plus saine, apaisante et stimulante pour ses occupants.
+    </p>
 
-<head>
-  <meta charset="UTF-8">
-  <title>Harmonisation des lieux – Bienfaits</title>
+    <h2>Pourquoi harmoniser un lieu ?</h2>
+    <p>
+      Nos habitats, bureaux ou lieux de vie accumulent souvent des énergies
+      négatives ou stagnantes liées aux émotions, aux événements passés,
+      ou aux habitudes des occupants. Une harmonisation permet de libérer
+      ces tensions invisibles et de restaurer l’équilibre.
+    </p>
 
-  <meta name="description" content="
-  Découvrez les bienfaits de l’harmonisation des lieux : équilibre énergétique,
-  apaisement, vitalité et atmosphère positive pour les occupants.
-  ">
+    <h2>Bienfaits principaux</h2>
+    <p>
+      Les principaux effets ressentis après une harmonisation sont :
+    </p>
+    <ul>
+      <li>Un sentiment de calme et de sérénité dans l’espace</li>
+      <li>Une meilleure circulation de l’énergie vitale (vitalité, concentration)</li>
+      <li>Une atmosphère plus positive favorisant la détente et la créativité</li>
+      <li>Une meilleure harmonie entre les habitants et leur environnement</li>
+    </ul>
 
-  <style>
-    body {
-      margin: 0;
-      min-height: 100vh;
-      background-color: #FFF5D0;
-      font-family: Georgia, serif;
-      color: #4a3b1f;
-      line-height: 1.7;
-    }
+    <h2>Comment cela se manifeste ?</h2>
+    <p>
+      Après un travail d’harmonisation, les occupants remarquent souvent :
+    </p>
+    <ul>
+      <li>Un sommeil plus réparateur</li>
+      <li>Un apaisement du stress et des tensions</li>
+      <li>Une impression de légèreté et de fluidité dans le lieu</li>
+      <li>Un regain d’énergie et de motivation pour les activités quotidiennes</li>
+    </ul>
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 60px 30px;
-      background: rgba(255,255,255,0.85);
-      border-radius: 12px;
-    }
-
-    h1 {
-      text-align: center;
-      font-size: 2em;
-      color: #7a5c00;
-      margin-bottom: 30px;
-    }
-
-    h2 {
-      color: #8b6b00;
-      margin-top: 40px;
-    }
-
-    p {
-      margin-bottom: 20px;
-      font-size: 1.05em;
-    }
-
-    nav {
-      margin-bottom: 30px;
-    }
-
-    .return-button {
-      display: inline-block;
-      padding: 10px 20px;
-      background-color: #7a5c00;
-      color: #FFF5D0;
-      border-radius: 8px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .return-button:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-
-<body>
-
-  <div class="container">
-
-    <!-- Bouton retour au sommaire -->
-    <nav>
-      <a href="index.html" class="return-button">← Retour au sommaire</a>
-    </nav>
-
-    <h1>Harmonisation des lieux et bienfaits</h1>
+    <h2>Une approche douce et respectueuse</h2>
+    <p>
+      L’harmonisation ne modifie pas le lieu matériellement, mais agit sur
+      les **énergies subtiles**. C’est une démarche respectueuse,
+      qui ne force rien mais permet à chaque espace et à ses occupants
+      de retrouver leur équilibre naturel.
+    </p>
 
     <p>
-      L’harmonisation des lieux consiste à rééquilibrer l’énergie des espaces
-      que nous habitons ou fréquentons, afin de créer
+      En intégrant régulièrement des pratiques d’harmonisation,
+      il est possible de maintenir un environnement soutenant,
+      favorable au bien-être et à l’épanouissement personnel.
+    </p>
+
+  </div>
+
+</body>
+</html>
