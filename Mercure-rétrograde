@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mercure rétrograde : comprendre ses effets</title>
+  <meta name="description" content="Tout comprendre sur Mercure rétrograde : définition, effets, mythes, conseils pratiques et impact selon les signes astrologiques." />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, sans-serif;
+      line-height: 1.7;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fb;
+      color: #222;
+    }
+    header {
+      background: linear-gradient(135deg, #3f51b5, #673ab7);
+      color: white;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: 2.5rem auto;
+      padding: 0 1.5rem;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+    }
+    article {
+      padding: 2rem 0;
+    }
+    h1, h2, h3 {
+      line-height: 1.3;
+    }
+    h2 {
+      margin-top: 2.5rem;
+      color: #3f51b5;
+    }
+    p {
+      margin: 1rem 0;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    li {
+      margin: 0.5rem 0;
+    }
+    .highlight {
+      background: #f1f0ff;
+      border-left: 4px solid #673ab7;
+      padding: 1rem 1.2rem;
+      margin: 2rem 0;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mercure rétrograde</h1>
+  <p>Comprendre ce phénomène astrologique souvent redouté</p>
+</header>
+
+<main>
+  <article>
+    <p>
+      Mercure rétrograde est sans doute l’un des phénomènes astrologiques les plus connus… et les plus redoutés.
+      Pannes de communication, retards, malentendus, décisions précipitées : tout semble aller de travers pendant
+      cette période. Mais que signifie réellement Mercure rétrograde, et faut-il vraiment s’en méfier ?
+    </p>
+
+    <h2>Qu’est-ce que Mercure rétrograde ?</h2>
+    <p>
+      D’un point de vue astronomique, Mercure rétrograde est une <strong>illusion d’optique</strong> : depuis la Terre,
+      la planète Mercure semble reculer dans le ciel, alors qu’elle continue en réalité sa trajectoire normale.
+      Ce phénomène se produit environ <strong>trois à quatre fois par an</strong> et dure en moyenne trois semaines.
+    </p>
+
+    <h2>La symbolique de Mercure en astrologie</h2>
+    <p>
+      En astrologie, Mercure est associée à la <strong>communication</strong>, à l’<strong>intellect</strong>, aux
+      <strong>déplacements</strong>, à la <strong>technologie</strong> et aux <strong>échanges</strong>. Lorsqu’elle est rétrograde,
+      ces domaines ont tendance à fonctionner au ralenti ou de manière désorganisée.
+    </p>
+
+    <div class="highlight">
+      <strong>En résumé :</strong> Mercure rétrograde invite moins à agir qu’à revoir, réévaluer et corriger.
+    </div>
+
+    <h2>Les effets possibles de Mercure rétrograde</h2>
+    <ul>
+      <li>Problèmes de communication (malentendus, messages mal interprétés)</li>
+      <li>Pannes technologiques ou bugs informatiques</li>
+      <li>Retards dans les transports et les projets</li>
+      <li>Retours du passé (anciens contacts, situations non résolues)</li>
+    </ul>
+
+    <h2>Que faire pendant Mercure rétrograde ?</h2>
+    <p>
+      Plutôt que de craindre cette période, il est souvent plus utile de l’aborder comme un temps de pause et de réflexion.
+    </p>
+    <ul>
+      <li>Relire attentivement les contrats et documents</li>
+      <li>Sauvegarder ses données importantes</li>
+      <li>Prendre le temps de réfléchir avant de prendre une décision</li>
+      <li>Finaliser ou corriger des projets existants</li>
+    </ul>
+
+    <h2>Mercure rétrograde en maison astrologique</h2>
+    <p>
+      En astrologie, la <strong>maison</strong> dans laquelle Mercure rétrograde se manifeste indique le domaine de vie
+      où les ralentissements, révisions et prises de conscience seront les plus marqués. Voici une lecture simplifiée
+      de Mercure rétrograde selon les 12 maisons astrologiques.
+    </p>
+
+    <ul>
+      <li><strong>Maison 1 :</strong> remise en question de l’identité, de la manière de s’exprimer et de se présenter aux autres.</li>
+      <li><strong>Maison 2 :</strong> réflexion sur les finances, les valeurs personnelles et la sécurité matérielle.</li>
+      <li><strong>Maison 3 :</strong> communication perturbée, retours liés à la fratrie, aux études ou aux déplacements.</li>
+      <li><strong>Maison 4 :</strong> sujets familiaux, souvenirs du passé, réorganisation du foyer.</li>
+      <li><strong>Maison 5 :</strong> introspection sur la créativité, les loisirs, la vie amoureuse ou les enfants.</li>
+      <li><strong>Maison 6 :</strong> ajustements dans le travail quotidien, la santé et les routines.</li>
+      <li><strong>Maison 7 :</strong> réévaluation des relations, anciens partenaires ou contrats qui refont surface.</li>
+      <li><strong>Maison 8 :</strong> questionnements profonds, finances partagées, transformations intérieures.</li>
+      <li><strong>Maison 9 :</strong> doutes ou révisions concernant les croyances, les études supérieures et les voyages lointains.</li>
+      <li><strong>Maison 10 :</strong> réflexion sur la carrière, l’image publique et les objectifs professionnels.</li>
+      <li><strong>Maison 11 :</strong> tri dans les relations amicales, projets collectifs à revoir.</li>
+      <li><strong>Maison 12 :</strong> introspection, besoin de solitude, travail sur l’inconscient.</li>
+    </ul>
+
+    <div class="highlight">
+      Mercure rétrograde en maison agit comme un <strong>miroir intérieur</strong> : il met en lumière ce qui demande à être compris,
+      corrigé ou libéré avant de pouvoir avancer sereinement.
+    </div>
+
+    <h2>Mercure rétrograde : mythe ou réalité ?</h2>
+    <p>
+      Si certains considèrent Mercure rétrograde comme une simple croyance, d’autres y voient un outil symbolique
+      permettant de mieux comprendre les cycles de la vie. Qu’on y adhère ou non, cette période peut être une bonne
+      occasion de ralentir et de prendre du recul.
+    </p>
+
+    <p>
+      En fin de compte, Mercure rétrograde n’est pas forcément synonyme de chaos, mais plutôt une invitation à
+      <strong>réviser, ajuster et réfléchir</strong> avant d’avancer.
+    </p>
+  </article>
+</main>
+
+<footer>
+  <p>© 2026 – Votre site • Article sur l’astrologie</p>
+</footer>
+
+</body>
+</html>
